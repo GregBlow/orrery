@@ -1,0 +1,5 @@
+/home/greg/orrery/orrery/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/greg/orrery/orrery/bin/Debug/orrery.exe.mdb
+/home/greg/orrery/orrery/bin/Debug/orrery.exe
+/home/greg/orrery/orrery/obj/x86/Debug/orrery.exe
+/home/greg/orrery/orrery/obj/x86/Debug/orrery.exe.mdb
